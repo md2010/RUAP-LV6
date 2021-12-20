@@ -36,7 +36,7 @@ namespace CallRequestResponseService
                             new StringTable()
                             {
                                 ColumnNames = new string[] {"MPG", "Cyl", "Displacement", "Horsepower", "Weight", "Acceleration", "Year", "CountryCode", "Model"},
-                                Values = new string[,] {  { "0", "0", "0", "0", "0", "0", "0", "0", "value" },  { "0", "0", "0", "0", "0", "0", "0", "0", "value" },  }
+                                Values = new string[,] {  { "27", "- 0.864014", "- 0.893805", "- 0.558487", "- 0.914261", "- 0.087585","0.005547","0.526382", "renault 12tl" },  { "33.5" , "- 0.864014", "- 0.922511", "- 0.558487",  "- 1.063969", "0.130174", "0.277358", "- 0.716641", "dodge colt m / m" },  }
                             }
                         },
                     },
